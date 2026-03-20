@@ -44,7 +44,7 @@ averages will always be too slow to catch problems before they become
 customer facing crises.
 
 ---
-Built by Phumelele Pearl Mlotshwa
+Built by Pearl Mlotshwa
 github.com/pearl-mlotshwa
-pearlmlotshwa140@gmail.com
+
 
